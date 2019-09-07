@@ -1,0 +1,58 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 14:29:56 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 30 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+warrior 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 fierywaraxe 3 entity 46 CS2_106 0 0 0
+pos 2 rivercrocolisk 2 entity 55 CS2_120 0 0 0
+pos 3 acidicswampooze 2 entity 62 EX1_066 0 0 0
+pos 4 rivercrocolisk 2 entity 54 CS2_120 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 1 1 1 8 1 8
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 6
+missing dmg to lethal 30
+calculated 0.0190874
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 6
+calculated 0.0146703

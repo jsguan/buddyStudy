@@ -1,0 +1,128 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 17:47:08 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 2/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+thief 30 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_083b
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS1h_001
+fatigue: 25 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 goldshirefootman 1 entity 47 CS1_042 0 0 0
+pos 2 stormwindknight 4 entity 60 CS2_131 0 0 0
+pos 3 sinisterstrike 1 entity 51 CS2_075 0 0 0
+pos 4 elvenarcher 1 entity 49 CS2_189 0 0 0
+pos 5 thecoin 0 entity 68 GAME_005 0 0 0
+pos 6 elvenarcher 1 entity 35 CS2_189 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: CS2_072,2;CS2_075,2;CS2_189,2;CS2_074,2;CS1_042,2;EX1_015,2;CS2_172,2;EX1_581,2;CS2_141,2;CS2_147,2;CS2_131,2;EX1_025,2;CS2_076,2;EX1_593,2;CS2_150,2;
+recalc-check###########
+mana changed 1 0 1 7 1 7
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 5 dones 0
+cut to len 4
+ailoop
+deep 2 len 6 dones 0
+cut to len 4
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 24
+missing dmg to lethal 30
+calculated 0.15463
+no lethal, do something random######
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 7 dones 0
+cut to len 6
+ailoop
+deep 2 len 13 dones 0
+cut to len 7
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 21
+play id 47 pos 1
+
+calculated 0.1299262
+play id 47 pos 1
+
+play: 闪金镇步兵 (47) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 17:47:12 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 2/1
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+thief 30 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_083b
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS1h_001
+fatigue: 25 0 26 0
+OwnMinions:
+goldshirefootman CS1_042 zp:1 e:47 A:1 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stormwindknight 4 entity 60 CS2_131 0 0 0
+pos 2 sinisterstrike 1 entity 51 CS2_075 0 0 0
+pos 3 elvenarcher 1 entity 49 CS2_189 0 0 0
+pos 4 thecoin 0 entity 68 GAME_005 0 0 0
+pos 5 elvenarcher 1 entity 35 CS2_189 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: CS2_072,2;CS2_075,2;CS2_189,2;CS2_074,2;CS1_042,2;EX1_015,2;CS2_172,2;EX1_581,2;CS2_141,2;CS2_147,2;CS2_131,2;EX1_025,2;CS2_076,2;EX1_593,2;CS2_150,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------

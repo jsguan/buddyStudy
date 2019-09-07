@@ -1,0 +1,130 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 15:29:40 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS1h_001
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 voodoodoctor 1 entity 4 EX1_011 0 0 0
+pos 2 koboldlibrarian 1 entity 32 LOOT_014 0 0 0
+pos 3 soulinfusion 1 entity 13 BOT_263 0 0 0
+pos 4 voodoodoctor 1 entity 15 EX1_011 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,2;EX1_308,2;BOT_263,1;EX1_319,2;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,2;UNG_072,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 1 3 1 8 1 8
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 11
+play id 13 pos 1
+
+missing dmg to lethal 30
+calculated 0.0582097
+no lethal, do something random######
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 17
+play id 32 pos 1
+
+calculated 0.0399758
+play id 32 pos 1
+
+play: 狗头人图书管理员 (32) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 15:29:46 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/1
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 28 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS1h_001
+fatigue: 25 0 26 0
+OwnMinions:
+koboldlibrarian LOOT_014 zp:1 e:32 A:2 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 voodoodoctor 1 entity 4 EX1_011 0 0 0
+pos 2 soulinfusion 1 entity 13 BOT_263 0 0 0
+pos 3 voodoodoctor 1 entity 15 EX1_011 0 0 0
+pos 4 koboldlibrarian 1 entity 33 LOOT_014 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,2;EX1_308,2;BOT_263,1;EX1_319,2;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,2;UNG_072,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+ownhero changed 28 30 0 0 0 0 False False False False False False
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 15.5
+missing dmg to lethal 30
+calculated 0.0205821
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 13
+calculated 0.0173636

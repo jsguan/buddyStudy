@@ -1,0 +1,1304 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 01:08:28 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 murksparkeel 2 entity 4 GIL_530 0 0 0
+pos 3 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 4 jadeclaws 2 entity 31 CFM_717 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,2;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+mana changed 1 -100 1 6 1 6
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 11
+useability 
+
+missing dmg to lethal 30
+calculated 0.0573574
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 8
+useability 
+
+calculated 0.030996
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 01:08:32 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/1
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 26 0 26 0
+OwnMinions:
+healingtotem NEW1_009 zp:1 e:79 A:0 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 murksparkeel 2 entity 4 GIL_530 0 0 0
+pos 3 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 4 jadeclaws 2 entity 31 CFM_717 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,2;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+minions count or hand changed
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 19
+missing dmg to lethal 30
+calculated 0.0201126
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 16
+calculated 0.0165827
+#######################################################################
+#######################################################################
+start calculations, current time: 01:08:55 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/0
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 25 0 25 0
+OwnMinions:
+EnemyMinions:
+jadegolem CFM_712_t01 zp:1 e:82 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 murksparkeel 2 entity 4 GIL_530 0 0 0
+pos 3 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 4 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 5 maelstromportal 2 entity 15 KAR_073 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,2;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+mana changed 2 -100 2 1 2 1
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 1 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 14
+play id 21 pos 1
+
+attack with hero, enemy: 66
+
+missing dmg to lethal 28
+calculated 0.0630757
+no lethal, do something random######
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 1 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 28
+play id 4 target 82 pos 1
+
+calculated 0.0669609
+play id 4 target 82 pos 1
+
+play: 阴燃电鳗 (4) target: 青玉魔像 (82) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:04 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/1
+mana 0/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 25 0 25 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 3 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 4 maelstromportal 2 entity 15 KAR_073 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,2;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:22 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/0
+mana 3/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+healingtotem NEW1_009 zp:1 e:84 A:0 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 3 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 4 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 5 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+mana changed 3 -100 3 2 3 2
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 11 dones 0
+cut to len 6
+ailoop
+deep 2 len 10 dones 0
+cut to len 4
+ailoop
+deep 3 len 3 dones 0
+cut to len 1
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 41
+useability 
+
+play id 21 pos 1
+
+attack with hero, enemy: 66
+
+missing dmg to lethal 28
+calculated 0.104568
+no lethal, do something random######
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 17 dones 0
+cut to len 9
+ailoop
+deep 2 len 16 dones 0
+cut to len 6
+ailoop
+deep 3 len 3 dones 0
+cut to len 1
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 30
+useability 
+
+play id 21 pos 1
+
+attack with hero, enemy: 84
+
+attacker: 4 enemy: 66
+
+calculated 0.1199319
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:26 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/1
+mana 2/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+searingtotem CS2_050 zp:2 e:85 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+healingtotem NEW1_009 zp:1 e:84 A:0 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 21 CFM_717 0 0 0
+pos 3 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 4 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 5 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+minions count or hand changed
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 5 dones 0
+cut to len 3
+ailoop
+deep 2 len 2 dones 0
+cut to len 1
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 49
+play id 21 pos 1
+
+attack with hero, enemy: 66
+
+missing dmg to lethal 28
+calculated 0.0831788
+no lethal, do something random######
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 9 dones 0
+cut to len 5
+ailoop
+deep 2 len 2 dones 0
+cut to len 1
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 38
+play id 21 pos 1
+
+attack with hero, enemy: 84
+
+attacker: 4 enemy: 66
+
+calculated 0.0919466
+play id 21 pos 1
+
+play: 青玉之爪 (21) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:32 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/2
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 1
+ownhero:
+unknown 30 30 0 False False 64 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+searingtotem CS2_050 zp:2 e:85 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+jadegolem CFM_712_t01 zp:3 e:87 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+healingtotem NEW1_009 zp:1 e:84 A:0 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+stuff changed 1 1 0 0 1 0 0 0 False False 0 0
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 49
+attack with hero, enemy: 66
+
+missing dmg to lethal 28
+calculated 0.0565736
+no lethal, do something random######
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 38
+attack with hero, enemy: 84
+
+attacker: 4 enemy: 66
+
+calculated 0.0500253
+attack with hero, enemy: 84
+
+heroattack: 拉斯塔哈大王 target: 治疗图腾
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:36 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/3
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 1 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+searingtotem CS2_050 zp:2 e:85 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+jadegolem CFM_712_t01 zp:3 e:87 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 4 enemy: 66
+
+minion attack: 阴燃电鳗 target: 拉斯塔哈大王
+#######################################################################
+#######################################################################
+start calculations, current time: 01:09:40 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/4
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 1
+ownhero:
+unknown 30 30 0 False False 64 False 1 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 28 30 0 False False 66 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+searingtotem CS2_050 zp:2 e:85 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+jadegolem CFM_712_t01 zp:3 e:87 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:05 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/0
+mana 3/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 1
+ownhero:
+unknown 30 30 0 False False 64 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:True natt:0
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:4 mH:4 rdy:False ex
+stoneclawtotem CS2_051 zp:2 e:89 A:0 H:2 mH:2 rdy:False ex tnt
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 5 whirlingzapomatic 2 entity 10 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+mana changed 3 -100 4 3 4 3
+Leathal-check###########
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 28 dones 0
+cut to len 16
+ailoop
+deep 2 len 56 dones 0
+cut to len 25
+ailoop
+deep 3 len 57 dones 0
+cut to len 19
+ailoop
+deep 4 len 21 dones 0
+cut to len 5
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 39
+attack with hero, enemy: 89
+
+useability 
+
+play id 31 pos 1
+
+attacker: 4 enemy: 66
+
+missing dmg to lethal 25
+calculated 0.2201528
+no lethal, do something random######
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 39 dones 0
+cut to len 28
+ailoop
+deep 2 len 130 dones 0
+cut to len 69
+ailoop
+deep 3 len 218 dones 0
+cut to len 86
+ailoop
+deep 4 len 129 dones 0
+cut to len 38
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 24
+attacker: 4 enemy: 89
+
+attack with hero, enemy: 41
+
+attacker: 87 enemy: 66
+
+play id 10 pos 2
+
+useability 
+
+calculated 0.2158784
+attacker: 4 enemy: 89
+
+minion attack: 阴燃电鳗 target: 石爪图腾
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:10 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/1
+mana 3/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 1
+ownhero:
+unknown 30 30 0 False False 64 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:True natt:0
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:4 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 5 whirlingzapomatic 2 entity 10 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attack with hero, enemy: 41
+
+heroattack: 拉斯塔哈大王 target: 图腾魔像
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:15 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/2
+mana 3/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 1
+ownhero:
+unknown 27 30 0 False False 64 False 1 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:True natt:0
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:2 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 5 whirlingzapomatic 2 entity 10 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CFM_717,21;
+etg: 
+og: CFM_717,1;
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 87 enemy: 66
+
+minion attack: 青玉魔像 target: 拉斯塔哈大王
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:20 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/3
+mana 3/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 1
+ownhero:
+unknown 27 30 0 False False 64 False 1 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:False natt:1 ex
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:2 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 5 whirlingzapomatic 2 entity 10 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CFM_717,21;
+etg: 
+og: CFM_717,1;
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 10 pos 2
+
+play: 自动漩涡打击装置 (10) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:25 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/4
+mana 1/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 1
+ownhero:
+unknown 27 30 0 False False 64 False 1 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+whirlingzapomatic GVG_037 zp:2 e:10 A:3 H:2 mH:2 rdy:False natt:0 ex ptt wndfr
+jadegolem CFM_712_t01 zp:3 e:87 A:1 H:1 mH:1 rdy:False natt:1 ex
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:2 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CFM_717,21;
+etg: 
+og: CFM_717,1;
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:28 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/5
+mana 0/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 1
+ownhero:
+unknown 27 30 0 False False 64 False 1 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 23 0 23 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:False natt:1 ex
+whirlingzapomatic GVG_037 zp:2 e:10 A:3 H:2 mH:2 rdy:False natt:0 ex ptt wndfr
+jadegolem CFM_712_t01 zp:3 e:87 A:1 H:1 mH:1 rdy:False natt:1 ex
+wrathofairtotem CS2_052 zp:4 e:91 A:0 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+totemgolem AT_052 zp:1 e:41 A:3 H:2 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CFM_717,21;
+etg: 
+og: CFM_717,1;
+eg: CFM_717,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,2;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 32.5
+missing dmg to lethal 26
+calculated 0.0265313
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 24
+calculated 0.0175133
+#######################################################################
+#######################################################################
+start calculations, current time: 01:10:59 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/0
+mana 5/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+unknown 27 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 22 0 21 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:True natt:0
+wrathofairtotem CS2_052 zp:3 e:91 A:0 H:2 mH:2 rdy:False natt:0
+EnemyMinions:
+searingtotem CS2_050 zp:1 e:93 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 jadeclaws 2 entity 31 CFM_717 0 0 0
+pos 3 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 4 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 5 flametonguetotem 2 entity 24 EX1_565 0 0 0
+Enemy cards: 6
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;CFM_717,1;
+eg: AT_052,1;CFM_717,1;BOT_093,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,1;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+mana changed 5 -100 5 4 5 4
+Leathal-check###########
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 37 dones 0
+cut to len 24
+ailoop
+deep 2 len 95 dones 0
+cut to len 45
+ailoop
+deep 3 len 128 dones 0
+cut to len 47
+ailoop
+deep 4 len 85 dones 0
+cut to len 26
+ailoop
+deep 5 len 22 dones 0
+cut to len 6
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 95
+play id 24 pos 2
+
+play id 15 pos 1
+
+useability 
+
+attacker: 4 enemy: 66
+
+missing dmg to lethal 22
+calculated 0.4094016
+no lethal, do something random######
+ailoop
+deep 0 len 11 dones 0
+cut to len 11
+ailoop
+deep 1 len 75 dones 0
+cut to len 51
+ailoop
+deep 2 len 216 dones 0
+cut to len 95
+ailoop
+deep 3 len 253 dones 0
+cut to len 87
+ailoop
+deep 4 len 127 dones 0
+cut to len 37
+ailoop
+deep 5 len 19 dones 0
+cut to len 5
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 61
+play id 31 pos 1
+
+play id 24 pos 2
+
+attack with hero, enemy: 93
+
+useability 
+
+attacker: 4 enemy: 66
+
+attacker: 87 enemy: 66
+
+calculated 0.2997552
+play id 31 pos 1
+
+play: 青玉之爪 (31) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 01:11:05 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/1
+mana 3/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 1
+ownhero:
+unknown 27 30 0 False False 64 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 22 0 21 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:2 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t01 zp:2 e:87 A:1 H:1 mH:1 rdy:True natt:0
+wrathofairtotem CS2_052 zp:3 e:91 A:0 H:2 mH:2 rdy:False natt:0
+jadegolem CFM_712_t02 zp:4 e:96 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+searingtotem CS2_050 zp:1 e:93 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 3 jadelightning 4 entity 19 CFM_707 0 0 0
+pos 4 flametonguetotem 2 entity 24 EX1_565 0 0 0
+Enemy cards: 6
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;CFM_717,1;
+eg: AT_052,1;CFM_717,1;BOT_093,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,1;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+stuff changed 1 1 0 0 1 0 0 0 True True 0 0
+Leathal-check###########
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 28 dones 0
+cut to len 18
+ailoop
+deep 2 len 60 dones 0
+cut to len 28
+ailoop
+deep 3 len 60 dones 0
+cut to len 21
+ailoop
+deep 4 len 22 dones 0
+cut to len 6
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 93
+play id 24 pos 2
+
+useability 
+
+attacker: 4 enemy: 66
+
+attack with hero, enemy: 66
+
+missing dmg to lethal 20
+calculated 0.2231558
+no lethal, do something random######
+ailoop
+deep 0 len 8 dones 0
+cut to len 8
+ailoop
+deep 1 len 41 dones 0
+cut to len 28
+ailoop
+deep 2 len 91 dones 0
+cut to len 43
+ailoop
+deep 3 len 79 dones 0
+cut to len 27
+ailoop
+deep 4 len 19 dones 0
+cut to len 5
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 61
+play id 24 pos 2
+
+useability 
+
+attacker: 4 enemy: 66
+
+attack with hero, enemy: 93
+
+attacker: 87 enemy: 66
+
+calculated 0.1828955
+play id 24 pos 2
+
+play: 火舌图腾 (24) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 01:11:11 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/2
+mana 1/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 1 0 1
+ownhero:
+unknown 27 30 0 False False 64 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: True None
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 1
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 26 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 22 0 21 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:4 A:4 H:3 mH:3 rdy:True natt:0
+flametonguetotem EX1_565 zp:2 e:24 A:0 H:3 mH:3 rdy:False natt:0 ex ptt
+jadegolem CFM_712_t01 zp:3 e:87 A:3 H:1 mH:1 rdy:True natt:0
+wrathofairtotem CS2_052 zp:4 e:91 A:0 H:2 mH:2 rdy:False natt:0
+jadegolem CFM_712_t02 zp:5 e:96 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+searingtotem CS2_050 zp:1 e:93 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 flamewreathedfaceless 4 entity 28 OG_024 0 0 0
+pos 2 maelstromportal 2 entity 15 KAR_073 0 0 0
+pos 3 jadelightning 4 entity 19 CFM_707 0 0 0
+Enemy cards: 6
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;CFM_717,1;
+eg: AT_052,1;CFM_717,1;BOT_093,1;GAME_005,1;
+od: AT_052,2;KAR_073,1;EX1_162,1;EX1_565,1;GVG_037,1;CFM_696,1;GVG_038,2;GIL_530,1;EX1_246,1;AT_047,1;OG_024,1;EX1_048,1;GVG_096,1;CFM_715,1;CFM_707,1;GIL_692,1;OG_028,2;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 图腾召唤 target nothing

@@ -1,0 +1,1787 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 14:23:34 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 30 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 1 6 1 6 1 6
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 2
+missing dmg to lethal 30
+calculated 0.0201768
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 2
+calculated 0.0166554
+#######################################################################
+#######################################################################
+start calculations, current time: 14:24:08 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/0
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 28 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 25 0 25 0
+OwnMinions:
+EnemyMinions:
+bluegillwarrior CS2_173 zp:1 e:32 A:2 H:1 mH:1 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 2 -100 2 6 2 6
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -4
+useability 
+
+missing dmg to lethal 30
+calculated 0.0401482
+no lethal, do something random######
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -4
+useability 
+
+calculated 0.0533431
+useability 
+
+use ablitiy: 全副武装！ target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 14:24:13 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/1
+mana 0/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 25 0 25 0
+OwnMinions:
+EnemyMinions:
+bluegillwarrior CS2_173 zp:1 e:32 A:2 H:1 mH:1 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:24:42 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/0
+mana 3/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 28 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 24 0 24 0
+OwnMinions:
+EnemyMinions:
+bluegillwarrior CS2_173 zp:1 e:32 A:2 H:1 mH:1 rdy:False ex chrg(1)
+murlocraider CS2_168 zp:2 e:17 A:2 H:1 mH:1 rdy:False ex
+murlocraider CS2_168 zp:3 e:31 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 6 whirlwind 1 entity 47 EX1_400 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 3 -100 3 2 3 2
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 4 dones 0
+cut to len 2
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 7
+play id 47 pos 1
+
+useability 
+
+missing dmg to lethal 30
+calculated 0.0578522
+no lethal, do something random######
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 6 dones 0
+cut to len 4
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 7
+play id 47 pos 1
+
+useability 
+
+calculated 0.0574942
+play id 47 pos 1
+
+play: 旋风斩 (47) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:24:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/1
+mana 2/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 2
+ownhero:
+warrior 28 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 24 0 24 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_168,17;CS2_168,31;CS2_173,32;
+otg: EX1_400,47;
+etg: CS2_168,17;CS2_168,31;CS2_173,32;
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 全副武装！ target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 14:24:51 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/2
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 24 0 24 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_168,17;CS2_168,31;CS2_173,32;
+otg: EX1_400,47;
+etg: CS2_168,17;CS2_168,31;CS2_173,32;
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:25:14 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/0
+mana 4/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 23 0 23 0
+OwnMinions:
+EnemyMinions:
+raidleader CS2_122 zp:1 e:21 A:2 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 6 bloodfenraptor 2 entity 59 CS2_172 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 4 -100 4 3 4 3
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -38
+useability 
+
+missing dmg to lethal 30
+calculated 0.0705514
+no lethal, do something random######
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 12 dones 0
+cut to len 10
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -26
+play id 59 pos 1
+
+useability 
+
+calculated 0.055986
+play id 59 pos 1
+
+play: 血沼迅猛龙 (59) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:25:19 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/1
+mana 2/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 23 0 23 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:59 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+raidleader CS2_122 zp:1 e:21 A:2 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 全副武装！ target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 14:25:21 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/2
+mana 0/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 28 30 4 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 23 0 23 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:59 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+raidleader CS2_122 zp:1 e:21 A:2 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:25:53 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/0
+mana 5/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 22 0 22 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:59 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+raidleader CS2_122 zp:1 e:21 A:2 H:2 mH:2 rdy:False ex
+dragonlingmechanic EX1_025 zp:2 e:9 A:3 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:3 e:78 A:3 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 shatteredsuncleric 3 entity 56 EX1_019 0 0 0
+pos 4 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 5 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 6 bloodfenraptor 2 entity 45 CS2_172 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 5 -100 5 4 5 4
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 12 dones 0
+cut to len 9
+ailoop
+deep 2 len 13 dones 0
+cut to len 7
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 1
+play id 56 target 59 pos 2
+
+useability 
+
+missing dmg to lethal 30
+calculated 0.1233111
+no lethal, do something random######
+ailoop
+deep 0 len 9 dones 0
+cut to len 9
+ailoop
+deep 1 len 62 dones 0
+cut to len 50
+ailoop
+deep 2 len 204 dones 0
+cut to len 108
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -18
+play id 56 target 59 pos 2
+
+attacker: 59 enemy: 21
+
+play id 45 pos 1
+
+calculated 0.1499146
+play id 56 target 59 pos 2
+
+play: 破碎残阳祭司 (56) target: 血沼迅猛龙 (59) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:01 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/1
+mana 2/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 22 0 22 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:59 A:4 H:3 mH:3 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:2 e:56 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+raidleader CS2_122 zp:1 e:21 A:2 H:2 mH:2 rdy:False ex
+dragonlingmechanic EX1_025 zp:2 e:9 A:3 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:3 e:78 A:3 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 5 bloodfenraptor 2 entity 45 CS2_172 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 59 enemy: 21
+
+minion attack: 血沼迅猛龙 target: 团队领袖
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:04 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/2
+mana 2/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 22 0 22 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:59 A:4 H:1 mH:3 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:2 e:56 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 5 bloodfenraptor 2 entity 45 CS2_172 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_122,21;
+otg: 
+etg: CS2_122,21;
+og: EX1_400,1;
+eg: CS2_168,2;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 45 pos 1
+
+play: 血沼迅猛龙 (45) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:10 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/3
+mana 0/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+2 2 0 0 2
+ownhero:
+warrior 28 30 2 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 22 0 22 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+bloodfenraptor CS2_172 zp:2 e:59 A:4 H:1 mH:3 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_122,21;
+otg: 
+etg: CS2_122,21;
+og: EX1_400,1;
+eg: CS2_168,2;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:42 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/0
+mana 6/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 23 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 21 0 21 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:True natt:0
+bloodfenraptor CS2_172 zp:2 e:59 A:4 H:1 mH:3 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+nightblade EX1_593 zp:3 e:19 A:4 H:4 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 5 execute 2 entity 46 CS2_108 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;
+eg: CS2_168,2;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 6 -100 6 5 6 5
+Leathal-check###########
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 20 dones 0
+cut to len 10
+ailoop
+deep 2 len 30 dones 0
+cut to len 10
+ailoop
+deep 3 len 20 dones 0
+cut to len 5
+ailoop
+deep 4 len 5 dones 0
+cut to len 1
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 17
+attacker: 56 enemy: 64
+
+attacker: 59 enemy: 64
+
+useability 
+
+missing dmg to lethal 23
+calculated 0.1772823
+no lethal, do something random######
+ailoop
+deep 0 len 16 dones 0
+cut to len 16
+ailoop
+deep 1 len 192 dones 0
+cut to len 121
+ailoop
+deep 2 len 1035 dones 0
+cut to len 373
+ailoop
+deep 3 len 2091 dones 0
+cut to len 565
+ailoop
+deep 4 len 2009 dones 0
+cut to len 448
+ailoop
+deep 5 len 951 dones 0
+cut to len 179
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -1
+attacker: 59 enemy: 19
+
+attacker: 45 enemy: 64
+
+play id 54 pos 2
+
+attacker: 56 enemy: 64
+
+calculated 0.789548
+attacker: 59 enemy: 19
+
+minion attack: 血沼迅猛龙 target: 夜刃刺客
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/1
+mana 6/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 23 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 30 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 21 0 21 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:2 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 5 execute 2 entity 46 CS2_108 0 0 0
+Enemy cards: 3
+ownDiedMinions: CS2_172,59;
+enemyDiedMinions: EX1_593,19;
+otg: CS2_172,59;
+etg: EX1_593,19;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 45 enemy: 64
+
+minion attack: 血沼迅猛龙 target: 乌瑟尔·光明使者
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:51 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/2
+mana 6/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 23 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 27 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 21 0 21 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:2 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 boulderfistogre 6 entity 54 CS2_200 0 0 0
+pos 2 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 3 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 4 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 5 execute 2 entity 46 CS2_108 0 0 0
+Enemy cards: 3
+ownDiedMinions: CS2_172,59;
+enemyDiedMinions: EX1_593,19;
+otg: CS2_172,59;
+etg: EX1_593,19;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 54 pos 2
+
+play: 石拳食人魔 (54) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:26:56 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/3
+mana 0/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 23 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 27 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 21 0 21 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:False natt:1 ex
+boulderfistogre CS2_200 zp:2 e:54 A:6 H:7 mH:7 rdy:False natt:0 ex ptt
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 3 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 4 execute 2 entity 46 CS2_108 0 0 0
+Enemy cards: 3
+ownDiedMinions: CS2_172,59;
+enemyDiedMinions: EX1_593,19;
+otg: CS2_172,59;
+etg: EX1_593,19;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 56 enemy: 64
+
+minion attack: 破碎残阳祭司 target: 乌瑟尔·光明使者
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:00 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/4
+mana 0/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 23 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 21 0 21 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:False natt:1 ex
+boulderfistogre CS2_200 zp:2 e:54 A:6 H:7 mH:7 rdy:False natt:0 ex ptt
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:False natt:1 ex
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 3 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 4 execute 2 entity 46 CS2_108 0 0 0
+Enemy cards: 3
+ownDiedMinions: CS2_172,59;
+enemyDiedMinions: EX1_593,19;
+otg: CS2_172,59;
+etg: EX1_593,19;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:37 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/0
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 14 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 20 0 20 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:True natt:0
+boulderfistogre CS2_200 zp:2 e:54 A:6 H:7 mH:7 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:15 A:5 H:2 mH:2 rdy:False ex chrg(1)
+dragonlingmechanic EX1_025 zp:2 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:3 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 3 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 4 execute 2 entity 46 CS2_108 0 0 0
+pos 5 arcanitereaper 5 entity 53 CS2_112 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;CS2_172,1;
+eg: CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 7 -100 7 6 7 6
+Leathal-check###########
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 37 dones 0
+cut to len 22
+ailoop
+deep 2 len 82 dones 0
+cut to len 34
+ailoop
+deep 3 len 88 dones 0
+cut to len 28
+ailoop
+deep 4 len 49 dones 0
+cut to len 13
+ailoop
+deep 5 len 13 dones 0
+cut to len 3
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 5075.5
+play id 50 pos 4
+
+attacker: 54 enemy: 64
+
+attacker: 45 enemy: 64
+
+attacker: 56 enemy: 64
+
+missing dmg to lethal 9
+calculated 0.2745976
+no lethal, do something random######
+ailoop
+deep 0 len 17 dones 0
+cut to len 17
+ailoop
+deep 1 len 219 dones 0
+cut to len 137
+ailoop
+deep 2 len 1290 dones 0
+cut to len 520
+ailoop
+deep 3 len 3265 dones 0
+cut to len 896
+ailoop
+deep 4 len 3452 dones 0
+cut to len 731
+ailoop
+deep 5 len 1554 dones 0
+cut to len 370
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 57
+attacker: 54 enemy: 15
+
+play id 50 pos 2
+
+attacker: 45 enemy: 78
+
+attacker: 56 enemy: 9
+
+calculated 0.8994855
+attacker: 54 enemy: 15
+
+minion attack: 石拳食人魔 target: 鲁莽火箭兵
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:43 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/1
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 14 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 20 0 20 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:3 H:2 mH:2 rdy:True natt:0
+boulderfistogre CS2_200 zp:2 e:54 A:6 H:2 mH:7 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:3 e:56 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 stormwindchampion 7 entity 50 CS2_222 0 0 0
+pos 3 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 4 execute 2 entity 46 CS2_108 0 0 0
+pos 5 arcanitereaper 5 entity 53 CS2_112 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_213,15;
+otg: 
+etg: CS2_213,15;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 50 pos 2
+
+play: 暴风城勇士 (50) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:48 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/2
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 14 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 20 0 20 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:3 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:False natt:0 ex ptt
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+mechanicaldragonling EX1_025t zp:2 e:78 A:2 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 arcanitereaper 5 entity 53 CS2_112 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_213,15;
+otg: 
+etg: CS2_213,15;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 45 enemy: 78
+
+minion attack: 血沼迅猛龙 target: 机械幼龙
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:52 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/3
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 14 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 20 0 20 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:False natt:1 ex
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:False natt:0 ex ptt
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+dragonlingmechanic EX1_025 zp:1 e:9 A:2 H:4 mH:4 rdy:False ex
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 arcanitereaper 5 entity 53 CS2_112 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_213,15;
+otg: 
+etg: CS2_213,15;
+og: EX1_400,1;CS2_172,1;
+eg: CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 56 enemy: 9
+
+minion attack: 破碎残阳祭司 target: 机械幼龙技工
+#######################################################################
+#######################################################################
+start calculations, current time: 14:27:57 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/4
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+warrior 14 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 20 0 20 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:False natt:1 ex
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:False natt:0 ex ptt
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 arcanitereaper 5 entity 53 CS2_112 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: EX1_025,9;CS2_213,15;
+otg: 
+etg: EX1_025,9;CS2_213,15;
+og: EX1_400,1;CS2_172,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:23 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/0
+mana 8/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:True natt:0
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:True natt:0
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 arcanitereaper 5 entity 53 CS2_112 0 0 0
+pos 5 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;CS2_172,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+mana changed 8 -100 8 7 8 7
+Leathal-check###########
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 43 dones 0
+cut to len 22
+ailoop
+deep 2 len 114 dones 0
+cut to len 41
+ailoop
+deep 3 len 170 dones 0
+cut to len 49
+ailoop
+deep 4 len 151 dones 0
+cut to len 37
+ailoop
+deep 5 len 75 dones 0
+cut to len 16
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10147
+play id 53 pos 1
+
+attacker: 56 enemy: 64
+
+attacker: 54 enemy: 64
+
+play id 63 pos 1
+
+attacker: 50 enemy: 64
+
+attack with hero, enemy: 64
+
+missing dmg to lethal -2
+calculated 0.2897857
+play id 53 pos 1
+
+play: 奥金斧 (53) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:27 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/1
+mana 3/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 True 0 False 5 0 False
+weapon: 5 2 arcanitereaper CS2_112 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 24 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:True natt:0
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:True natt:0
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;CS2_172,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 56 enemy: 64
+
+minion attack: 破碎残阳祭司 target: 乌瑟尔·光明使者
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:31 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/2
+mana 3/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 True 0 False 5 0 False
+weapon: 5 2 arcanitereaper CS2_112 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 20 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:True natt:0
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:True natt:0
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;CS2_172,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 54 enemy: 64
+
+minion attack: 石拳食人魔 target: 乌瑟尔·光明使者
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:36 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/3
+mana 3/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 True 0 False 5 0 False
+weapon: 5 2 arcanitereaper CS2_112 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 13 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:True natt:0
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 heroicstrike 2 entity 63 CS2_105 0 0 0
+pos 3 execute 2 entity 46 CS2_108 0 0 0
+pos 4 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_400,1;CS2_172,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 63 pos 1
+
+play: 英勇打击 (63) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:40 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/4
+mana 1/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 2 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 True 0 False 9 0 False
+weapon: 5 2 arcanitereaper CS2_112 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 13 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:True natt:0
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 execute 2 entity 46 CS2_108 0 0 0
+pos 3 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CS2_105,63;
+etg: 
+og: EX1_400,1;CS2_172,1;CS2_105,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 50 enemy: 64
+
+minion attack: 暴风城勇士 target: 乌瑟尔·光明使者
+#######################################################################
+#######################################################################
+start calculations, current time: 14:28:45 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/5
+mana 1/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 2 0 0 2
+ownhero:
+warrior 9 30 0 False False 66 True 0 False 9 0 False
+weapon: 5 2 arcanitereaper CS2_112 0 0
+ability: True CS2_102
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+pala 7 30 0 False False 64 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_101
+fatigue: 19 0 19 0
+OwnMinions:
+bloodfenraptor CS2_172 zp:1 e:45 A:4 H:1 mH:3 rdy:True natt:0
+stormwindchampion CS2_222 zp:2 e:50 A:6 H:6 mH:6 rdy:False natt:1 ex
+boulderfistogre CS2_200 zp:3 e:54 A:7 H:3 mH:8 rdy:False natt:1 ex
+shatteredsuncleric EX1_019 zp:4 e:56 A:4 H:1 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+recklessrocketeer CS2_213 zp:1 e:13 A:5 H:2 mH:2 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 acidicswampooze 2 entity 43 EX1_066 0 0 0
+pos 2 execute 2 entity 46 CS2_108 0 0 0
+pos 3 acidicswampooze 2 entity 62 EX1_066 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: CS2_105,63;
+etg: 
+og: EX1_400,1;CS2_172,1;CS2_105,1;
+eg: EX1_025,1;CS2_213,1;CS2_168,2;EX1_593,1;CS2_122,1;CS2_173,1;GAME_005,1;
+od: EX1_400,2;CS2_108,2;CS2_120,2;CS2_105,2;CS2_172,2;EX1_066,2;CS2_114,2;CS2_196,1;CS2_106,2;EX1_019,2;CS2_182,2;NEW1_011,2;CS2_179,2;CS2_112,2;CS2_200,1;CS2_222,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attack with hero, enemy: 64
+
+heroattack: 加尔鲁什·地狱咆哮 target: 乌瑟尔·光明使者

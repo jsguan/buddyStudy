@@ -1,0 +1,112 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 10:32:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 happyghoul 3 entity 19 ICC_700 0 0 0
+pos 2 fungalenchanter 3 entity 30 LOOT_388 0 0 0
+pos 3 voidwalker 1 entity 31 CS2_065 0 0 0
+pos 4 tarcreeper 3 entity 25 UNG_928 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,2;EX1_011,2;EX1_308,2;BOT_263,2;EX1_319,2;LOOT_014,2;ICC_851,1;BOT_224,2;ICC_700,1;UNG_928,1;UNG_072,1;LOOT_388,1;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 1 5 1 5 1 5
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 8
+missing dmg to lethal 30
+calculated 0.0282278
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 20
+play id 31 pos 1
+
+calculated 0.0504243
+play id 31 pos 1
+
+play: 虚空行者 (31) choice: 0
+play id 31 pos 1
+
+play: 虚空行者 (31) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:32:54 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/2
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+unknown 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True None
+fatigue: 26 0 26 0
+OwnMinions:
+voidwalker CS2_065 zp:1 e:31 A:1 H:3 mH:3 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 happyghoul 3 entity 19 ICC_700 0 0 0
+pos 2 fungalenchanter 3 entity 30 LOOT_388 0 0 0
+pos 3 tarcreeper 3 entity 25 UNG_928 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,2;EX1_011,2;EX1_308,2;BOT_263,2;EX1_319,2;LOOT_014,2;ICC_851,1;BOT_224,2;ICC_700,1;UNG_928,1;UNG_072,1;LOOT_388,1;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------

@@ -1,0 +1,2748 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 09:51:26 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 30 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 26 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 murksparkeel 2 entity 58 GIL_530 0 0 0
+pos 4 whirlingzapomatic 2 entity 43 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 1 -100 1 1 1 1
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10
+missing dmg to lethal 30
+calculated 0.039275
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 15
+useability 
+
+calculated 0.0329632
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:51:30 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 1/1
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 30 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 26 0 26 0
+OwnMinions:
+wrathofairtotem CS2_052 zp:1 e:74 A:0 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 murksparkeel 2 entity 58 GIL_530 0 0 0
+pos 4 whirlingzapomatic 2 entity 43 GVG_037 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+entityupdate! 1000 to 74
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:12 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/0
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 30 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 25 0 25 0
+OwnMinions:
+wrathofairtotem CS2_052 zp:1 e:74 A:0 H:2 mH:2 rdy:False natt:0
+EnemyMinions:
+razorfenhunter CS2_196 zp:1 e:21 A:2 H:3 mH:3 rdy:False ex
+boar CS2_boar zp:2 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 murksparkeel 2 entity 58 GIL_530 0 0 0
+pos 4 whirlingzapomatic 2 entity 43 GVG_037 0 0 0
+pos 5 flametonguetotem 2 entity 55 EX1_565 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: EX1_169,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 2 -100 2 1 2 1
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -6
+play id 55 pos 2
+
+missing dmg to lethal 30
+calculated 0.0601881
+no lethal, do something random######
+ailoop
+deep 0 len 8 dones 0
+cut to len 8
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 20
+play id 58 target 21 pos 2
+
+calculated 0.0369776
+play id 58 target 21 pos 2
+
+play: 阴燃电鳗 (58) target: 剃刀猎手 (21) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:20 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 3/1
+mana 0/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 30 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 25 0 25 0
+OwnMinions:
+wrathofairtotem CS2_052 zp:1 e:74 A:0 H:2 mH:2 rdy:False natt:0
+murksparkeel GIL_530 zp:2 e:58 A:2 H:3 mH:3 rdy:False natt:0 ex ptt
+EnemyMinions:
+razorfenhunter CS2_196 zp:1 e:21 A:2 H:1 mH:3 rdy:False ex
+boar CS2_boar zp:2 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 whirlingzapomatic 2 entity 43 GVG_037 0 0 0
+pos 4 flametonguetotem 2 entity 55 EX1_565 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: EX1_169,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:42 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/0
+mana 3/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 29 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:58 A:2 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+razorfenhunter CS2_196 zp:1 e:21 A:2 H:1 mH:3 rdy:False ex
+boar CS2_boar zp:2 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 whirlingzapomatic 2 entity 43 GVG_037 0 0 0
+pos 4 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 5 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CS2_052,1;
+eg: EX1_169,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 3 -100 3 2 3 2
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 6 dones 0
+cut to len 5
+ailoop
+deep 2 len 5 dones 0
+cut to len 3
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 45
+useability 
+
+play id 55 pos 2
+
+missing dmg to lethal 30
+calculated 0.0904819
+no lethal, do something random######
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 22 dones 0
+cut to len 19
+ailoop
+deep 2 len 30 dones 0
+cut to len 13
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 26
+play id 43 pos 2
+
+useability 
+
+attacker: 58 enemy: 68
+
+calculated 0.1079396
+play id 43 pos 2
+
+play: 自动漩涡打击装置 (43) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/1
+mana 1/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 29 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:58 A:2 H:3 mH:3 rdy:True natt:0
+whirlingzapomatic GVG_037 zp:2 e:43 A:3 H:2 mH:2 rdy:False natt:0 ex ptt wndfr
+EnemyMinions:
+razorfenhunter CS2_196 zp:1 e:21 A:2 H:1 mH:3 rdy:False ex
+boar CS2_boar zp:2 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 4 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CS2_052,1;
+eg: EX1_169,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:51 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/2
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 29 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:58 A:2 H:3 mH:3 rdy:True natt:0
+whirlingzapomatic GVG_037 zp:2 e:43 A:3 H:2 mH:2 rdy:False natt:0 ex ptt wndfr
+stoneclawtotem CS2_051 zp:3 e:82 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+razorfenhunter CS2_196 zp:1 e:21 A:2 H:1 mH:3 rdy:False ex
+boar CS2_boar zp:2 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 4 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CS2_052,1;
+eg: EX1_169,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 50
+missing dmg to lethal 30
+calculated 0.0365148
+no lethal, do something random######
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 32
+attacker: 58 enemy: 21
+
+calculated 0.0335542
+attacker: 58 enemy: 21
+
+minion attack: 阴燃电鳗 target: 剃刀猎手
+#######################################################################
+#######################################################################
+start calculations, current time: 09:52:56 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 5/3
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 29 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 24 0 24 0
+OwnMinions:
+murksparkeel GIL_530 zp:1 e:58 A:2 H:1 mH:3 rdy:False natt:1 ex
+whirlingzapomatic GVG_037 zp:2 e:43 A:3 H:2 mH:2 rdy:False natt:0 ex ptt wndfr
+stoneclawtotem CS2_051 zp:3 e:82 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 4 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: CS2_196,21;
+otg: 
+etg: CS2_196,21;
+og: CS2_052,1;
+eg: EX1_169,1;CS2_196,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:53:20 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/0
+mana 4/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 23 0 23 0
+OwnMinions:
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 4 ayablackpaw 6 entity 66 CFM_902 0 0 0
+pos 5 direwolfalpha 2 entity 61 EX1_162 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;GIL_530,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 4 -100 4 3 4 3
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 2 dones 0
+cut to len 2
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 14
+useability 
+
+play id 55 pos 2
+
+missing dmg to lethal 30
+calculated 0.0613407
+no lethal, do something random######
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 6 dones 0
+cut to len 5
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 6
+play id 61 pos 1
+
+play id 55 pos 1
+
+calculated 0.0807844
+play id 61 pos 1
+
+play: 恐狼前锋 (61) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:53:26 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/1
+mana 2/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 23 0 23 0
+OwnMinions:
+direwolfalpha EX1_162 zp:1 e:61 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 flametonguetotem 2 entity 55 EX1_565 0 0 0
+pos 4 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;GIL_530,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 55 pos 1
+
+play: 火舌图腾 (55) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:53:31 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 7/2
+mana 0/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+2 2 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 23 0 23 0
+OwnMinions:
+flametonguetotem EX1_565 zp:1 e:55 A:1 H:3 mH:3 rdy:False natt:0 ex ptt
+direwolfalpha EX1_162 zp:2 e:61 A:4 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 ayablackpaw 6 entity 66 CFM_902 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;GIL_530,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_013,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:54:19 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/0
+mana 5/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 22 0 21 0
+OwnMinions:
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:3 H:2 mH:3 rdy:False ex tnt
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 spellbreaker 4 entity 42 EX1_048 0 0 0
+pos 2 hex 4 entity 50 EX1_246 0 0 0
+pos 3 ayablackpaw 6 entity 66 CFM_902 0 0 0
+pos 4 crackle 2 entity 63 GVG_038 0 0 0
+Enemy cards: 2
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 5 -100 5 4 5 4
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 6 dones 0
+cut to len 4
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -19
+play id 42 target 78 pos 1
+
+missing dmg to lethal 30
+calculated 0.0703655
+no lethal, do something random######
+ailoop
+deep 0 len 8 dones 0
+cut to len 8
+ailoop
+deep 1 len 14 dones 0
+cut to len 10
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -18
+play id 42 target 78 pos 1
+
+useability 
+
+calculated 0.057727
+play id 42 target 78 pos 1
+
+play: 破法者 (42) target: 野猪 (78) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:54:27 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/1
+mana 1/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 22 0 21 0
+OwnMinions:
+spellbreaker EX1_048 zp:1 e:42 A:4 H:3 mH:3 rdy:False natt:0 ex ptt
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex silenced
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 ayablackpaw 6 entity 66 CFM_902 0 0 0
+pos 3 crackle 2 entity 63 GVG_038 0 0 0
+Enemy cards: 2
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+enemyminions changed
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -19
+missing dmg to lethal 30
+calculated 0.0586455
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -15
+useability 
+
+calculated 0.03339
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:54:31 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 9/2
+mana 0/5
+emana 5
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 28 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 22 0 21 0
+OwnMinions:
+spellbreaker EX1_048 zp:1 e:42 A:4 H:3 mH:3 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:2 e:95 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+boar CS2_boar zp:1 e:78 A:1 H:1 mH:1 rdy:False ex silenced
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 ayablackpaw 6 entity 66 CFM_902 0 0 0
+pos 3 crackle 2 entity 63 GVG_038 0 0 0
+Enemy cards: 2
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: EX1_169,1;CS2_012,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -13
+missing dmg to lethal 30
+calculated 0.0211851
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -15
+calculated 0.0324872
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:02 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/0
+mana 6/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 22 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 21 0 20 0
+OwnMinions:
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 ayablackpaw 6 entity 66 CFM_902 0 0 0
+pos 3 crackle 2 entity 63 GVG_038 0 0 0
+pos 4 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 6 -100 6 5 6 5
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 3 dones 0
+cut to len 2
+ailoop
+deep 2 len 2 dones 0
+cut to len 1
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -63
+missing dmg to lethal 30
+calculated 0.0803089
+no lethal, do something random######
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 27 dones 0
+cut to len 15
+ailoop
+deep 2 len 14 dones 0
+cut to len 8
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -36
+play id 66 pos 1
+
+calculated 0.1094582
+play id 66 pos 1
+
+play: 艾雅·黑掌 (66) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:09 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 11/1
+mana 0/6
+emana 6
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 22 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 21 0 20 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:False natt:0 ex ptt
+jadegolem CFM_712_t01 zp:2 e:99 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 crackle 2 entity 63 GVG_038 0 0 0
+pos 3 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+entityupdate! 1000 to 99
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:36 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/0
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 19 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 1 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+druidoftheclaw EX1_165t2 zp:3 e:4 A:4 H:6 mH:6 rdy:False tnt
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 crackle 2 entity 63 GVG_038 0 0 0
+pos 3 crackle 2 entity 52 GVG_038 0 0 0
+pos 4 jadeclaws 2 entity 41 CFM_717 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 7 -100 7 6 7 6
+Leathal-check###########
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 22 dones 0
+cut to len 13
+ailoop
+deep 2 len 44 dones 0
+cut to len 20
+ailoop
+deep 3 len 44 dones 0
+cut to len 18
+ailoop
+deep 4 len 22 dones 0
+cut to len 8
+ailoop
+deep 5 len 4 dones 0
+cut to len 1
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 4
+play id 50 target 4 pos 1
+
+play id 41 pos 1
+
+attack with hero, enemy: 4
+
+missing dmg to lethal 30
+calculated 0.2810278
+no lethal, do something random######
+ailoop
+deep 0 len 11 dones 0
+cut to len 11
+ailoop
+deep 1 len 105 dones 0
+cut to len 58
+ailoop
+deep 2 len 297 dones 0
+cut to len 127
+ailoop
+deep 3 len 357 dones 0
+cut to len 131
+ailoop
+deep 4 len 221 dones 0
+cut to len 78
+ailoop
+deep 5 len 86 dones 0
+cut to len 31
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -18
+play id 41 pos 1
+
+play id 50 target 4 pos 1
+
+attacker: 66 enemy: 4
+
+attack with hero, enemy: 34
+
+calculated 0.359794
+play id 41 pos 1
+
+play: 青玉之爪 (41) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:42 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/1
+mana 5/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 2
+ownhero:
+shaman 19 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t02 zp:2 e:106 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+druidoftheclaw EX1_165t2 zp:3 e:4 A:4 H:6 mH:6 rdy:False tnt
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 crackle 2 entity 63 GVG_038 0 0 0
+pos 3 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+stuff changed 1 1 0 0 1 0 0 0 True True 0 0
+Leathal-check###########
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 19 dones 0
+cut to len 12
+ailoop
+deep 2 len 30 dones 0
+cut to len 15
+ailoop
+deep 3 len 21 dones 0
+cut to len 8
+ailoop
+deep 4 len 4 dones 0
+cut to len 1
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 4
+play id 50 target 4 pos 1
+
+attack with hero, enemy: 4
+
+missing dmg to lethal 30
+calculated 0.2099528
+no lethal, do something random######
+ailoop
+deep 0 len 11 dones 0
+cut to len 11
+ailoop
+deep 1 len 78 dones 0
+cut to len 45
+ailoop
+deep 2 len 191 dones 0
+cut to len 86
+ailoop
+deep 3 len 206 dones 0
+cut to len 78
+ailoop
+deep 4 len 86 dones 0
+cut to len 31
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -16
+useability 
+
+play id 50 target 4 pos 1
+
+attacker: 66 enemy: 4
+
+attack with hero, enemy: 34
+
+calculated 0.2438611
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:46 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/2
+mana 4/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 0 2
+ownhero:
+shaman 19 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t02 zp:2 e:106 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:3 e:107 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+druidoftheclaw EX1_165t2 zp:3 e:4 A:4 H:6 mH:6 rdy:False tnt
+Own Handcards: 
+pos 1 hex 4 entity 50 EX1_246 0 0 0
+pos 2 crackle 2 entity 63 GVG_038 0 0 0
+pos 3 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 11 dones 0
+cut to len 8
+ailoop
+deep 2 len 11 dones 0
+cut to len 7
+ailoop
+deep 3 len 3 dones 0
+cut to len 1
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10
+play id 50 target 4 pos 1
+
+attack with hero, enemy: 4
+
+missing dmg to lethal 30
+calculated 0.1491424
+no lethal, do something random######
+ailoop
+deep 0 len 10 dones 0
+cut to len 10
+ailoop
+deep 1 len 58 dones 0
+cut to len 34
+ailoop
+deep 2 len 92 dones 0
+cut to len 44
+ailoop
+deep 3 len 48 dones 0
+cut to len 22
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -16
+play id 50 target 4 pos 1
+
+attacker: 66 enemy: 4
+
+attack with hero, enemy: 34
+
+calculated 0.1782251
+play id 50 target 4 pos 1
+
+play: 妖术 (50) target: 利爪德鲁伊 (4) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:52 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/3
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 2 1 0 2
+ownhero:
+shaman 19 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+jadegolem CFM_712_t02 zp:2 e:106 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:3 e:107 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+frog hexfrog zp:3 e:4 A:0 H:1 mH:1 rdy:False tnt ptt
+Own Handcards: 
+pos 1 crackle 2 entity 63 GVG_038 0 0 0
+pos 2 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: EX1_246,50;
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+enemyminions changed
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 2
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10
+attack with hero, enemy: 4
+
+missing dmg to lethal 30
+calculated 0.0809576
+no lethal, do something random######
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 5 dones 0
+cut to len 5
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board -16
+attacker: 66 enemy: 4
+
+attack with hero, enemy: 34
+
+calculated 0.0541052
+attacker: 66 enemy: 4
+
+minion attack: 艾雅·黑掌 target: 青蛙
+#######################################################################
+#######################################################################
+start calculations, current time: 09:55:57 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/4
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 2 1 0 2
+ownhero:
+shaman 19 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 2 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:False natt:1 ex
+jadegolem CFM_712_t02 zp:2 e:106 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:3 e:107 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+koboldgeomancer CS2_142 zp:1 e:34 A:2 H:2 mH:2 rdy:False ex
+noviceengineer EX1_015 zp:2 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 63 GVG_038 0 0 0
+pos 2 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: hexfrog,4;
+otg: EX1_246,50;
+etg: hexfrog,4;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attack with hero, enemy: 34
+
+heroattack: 萨尔 target: 狗头人地卜师
+#######################################################################
+#######################################################################
+start calculations, current time: 09:56:01 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 13/5
+mana 0/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 2 1 0 2
+ownhero:
+shaman 17 30 0 False False 70 False 1 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 20 0 19 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:False natt:1 ex
+jadegolem CFM_712_t02 zp:2 e:106 A:2 H:2 mH:2 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:3 e:107 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 63 GVG_038 0 0 0
+pos 2 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: hexfrog,4;CS2_142,34;
+otg: EX1_246,50;
+etg: hexfrog,4;CS2_142,34;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:56:41 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/0
+mana 7/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 2
+ownhero:
+shaman 16 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+stormwindknight CS2_131 zp:2 e:22 A:2 H:3 mH:5 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 crackle 2 entity 63 GVG_038 0 0 0
+pos 2 crackle 2 entity 52 GVG_038 0 0 0
+pos 3 draeneitotemcarver 4 entity 54 AT_047 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 7 -100 8 7 8 7
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 13 dones 0
+cut to len 7
+ailoop
+deep 2 len 18 dones 0
+cut to len 7
+ailoop
+deep 3 len 13 dones 0
+cut to len 4
+ailoop
+deep 4 len 4 dones 0
+cut to len 1
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 1
+attack with hero, enemy: 68
+
+missing dmg to lethal 28
+calculated 0.1724685
+no lethal, do something random######
+ailoop
+deep 0 len 11 dones 0
+cut to len 11
+ailoop
+deep 1 len 90 dones 0
+cut to len 59
+ailoop
+deep 2 len 334 dones 0
+cut to len 152
+ailoop
+deep 3 len 525 dones 0
+cut to len 195
+ailoop
+deep 4 len 304 dones 0
+cut to len 97
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 4
+play id 63 target 22 pos 1
+
+play id 54 pos 2
+
+useability 
+
+attacker: 66 enemy: 68
+
+attack with hero, enemy: 14
+
+calculated 0.2908253
+play id 63 target 22 pos 1
+
+play: 连环爆裂 (63) target: 暴风城骑士 (22) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:56:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/1
+mana 5/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 1 1 1 2
+ownhero:
+shaman 16 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 draeneitotemcarver 4 entity 54 AT_047 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,22;
+otg: GVG_038,63;
+etg: CS2_131,22;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 54 pos 2
+
+play: 德莱尼图腾师 (54) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:56:54 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/2
+mana 1/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 1 1 2
+ownhero:
+shaman 16 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+draeneitotemcarver AT_047 zp:2 e:54 A:4 H:4 mH:4 rdy:False natt:0 ex ptt
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,22;
+otg: GVG_038,63;
+etg: CS2_131,22;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:56:58 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/3
+mana 0/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 1 1 2
+ownhero:
+shaman 16 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 30 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+draeneitotemcarver AT_047 zp:2 e:54 A:4 H:4 mH:4 rdy:False natt:0 ex ptt
+stoneclawtotem CS2_051 zp:3 e:114 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,22;
+otg: GVG_038,63;
+etg: CS2_131,22;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 48
+attack with hero, enemy: 68
+
+missing dmg to lethal 28
+calculated 0.0598234
+no lethal, do something random######
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 9
+attacker: 66 enemy: 68
+
+attack with hero, enemy: 14
+
+calculated 0.0525066
+attacker: 66 enemy: 68
+
+minion attack: 艾雅·黑掌 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:02 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/4
+mana 0/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 1 1 2
+ownhero:
+shaman 16 30 0 False False 70 True 0 False 2 0 False
+weapon: 2 1 jadeclaws CFM_717 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:False natt:1 ex
+draeneitotemcarver AT_047 zp:2 e:54 A:4 H:4 mH:4 rdy:False natt:0 ex ptt
+stoneclawtotem CS2_051 zp:3 e:114 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+noviceengineer EX1_015 zp:1 e:14 A:1 H:1 mH:1 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,22;
+otg: GVG_038,63;
+etg: CS2_131,22;
+og: EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attack with hero, enemy: 14
+
+heroattack: 萨尔 target: 工程师学徒
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:06 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 15/5
+mana 0/8
+emana 8
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 1 1 2
+ownhero:
+shaman 15 30 0 False False 70 False 1 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 19 0 18 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:False natt:1 ex
+draeneitotemcarver AT_047 zp:2 e:54 A:4 H:4 mH:4 rdy:False natt:0 ex ptt
+stoneclawtotem CS2_051 zp:3 e:114 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: EX1_015,14;CS2_131,22;
+otg: CFM_717,41;GVG_038,63;
+etg: EX1_015,14;CS2_131,22;
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;EX1_015,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:32 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 17/0
+mana 8/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 1 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 1 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 18 0 17 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+draeneitotemcarver AT_047 zp:2 e:54 A:4 H:4 mH:4 rdy:True natt:0
+EnemyMinions:
+stormwindknight CS2_131 zp:1 e:12 A:2 H:5 mH:5 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 genngreymane 6 entity 47 GIL_692 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;EX1_015,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 8 -100 9 8 9 8
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 12 dones 0
+cut to len 6
+ailoop
+deep 2 len 12 dones 0
+cut to len 4
+ailoop
+deep 3 len 4 dones 0
+cut to len 1
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 27
+attacker: 66 enemy: 68
+
+missing dmg to lethal 21
+calculated 0.1373743
+no lethal, do something random######
+ailoop
+deep 0 len 13 dones 0
+cut to len 13
+ailoop
+deep 1 len 122 dones 0
+cut to len 105
+ailoop
+deep 2 len 533 dones 0
+cut to len 234
+ailoop
+deep 3 len 488 dones 0
+cut to len 169
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 37
+play id 47 target 54 pos 2
+
+useability 
+
+attacker: 66 enemy: 12
+
+attacker: 54 enemy: 68
+
+calculated 0.2458463
+play id 47 target 54 pos 2
+
+play: 吉恩·格雷迈恩 (47) target: 德莱尼图腾师 (54) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:38 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 17/1
+mana 2/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 1 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 18 0 17 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:0 ex ptt
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+EnemyMinions:
+stormwindknight CS2_131 zp:1 e:12 A:2 H:5 mH:5 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;EX1_015,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:42 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 17/2
+mana 1/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 1 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 18 0 17 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:3 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:0 ex ptt
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+stoneclawtotem CS2_051 zp:4 e:118 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+stormwindknight CS2_131 zp:1 e:12 A:2 H:5 mH:5 rdy:False ex chrg(1)
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;EX1_015,1;CS2_196,1;CS2_131,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 5050
+attacker: 66 enemy: 68
+
+attacker: 54 enemy: 68
+
+missing dmg to lethal 17
+calculated 0.0580695
+no lethal, do something random######
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 7 dones 0
+cut to len 4
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 40
+attacker: 66 enemy: 12
+
+attacker: 54 enemy: 68
+
+calculated 0.0518181
+attacker: 66 enemy: 12
+
+minion attack: 艾雅·黑掌 target: 暴风城骑士
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:47 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 17/3
+mana 1/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 25 30 1 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 18 0 17 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:False natt:1 ex
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:0 ex ptt
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+stoneclawtotem CS2_051 zp:4 e:118 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,12;
+otg: 
+etg: CS2_131,12;
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 54 enemy: 68
+
+minion attack: 德莱尼图腾师 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:57:52 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 17/4
+mana 1/9
+emana 9
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 1 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 22 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 18 0 17 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:False natt:1 ex
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:0 ex ptt
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:False natt:1 ex
+stoneclawtotem CS2_051 zp:4 e:118 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: CS2_131,12;
+otg: 
+etg: CS2_131,12;
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,1;CS2_013,1;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:35 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/0
+mana 10/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 22 30 3 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:True natt:0
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 thingfrombelow 0 entity 40 OG_028 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 10 -100 10 9 10 9
+Leathal-check###########
+ailoop
+deep 0 len 5 dones 0
+cut to len 5
+ailoop
+deep 1 len 20 dones 0
+cut to len 10
+ailoop
+deep 2 len 30 dones 0
+cut to len 10
+ailoop
+deep 3 len 20 dones 0
+cut to len 5
+ailoop
+deep 4 len 5 dones 0
+cut to len 1
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 5097
+attacker: 47 enemy: 68
+
+attacker: 66 enemy: 68
+
+attacker: 54 enemy: 68
+
+missing dmg to lethal 10
+calculated 0.1974777
+no lethal, do something random######
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 39 dones 0
+cut to len 27
+ailoop
+deep 2 len 117 dones 0
+cut to len 49
+ailoop
+deep 3 len 154 dones 0
+cut to len 50
+ailoop
+deep 4 len 102 dones 0
+cut to len 27
+ailoop
+deep 5 len 27 dones 0
+cut to len 6
+ailoop
+deep 6 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 98
+useability 
+
+attacker: 54 enemy: 68
+
+attacker: 47 enemy: 68
+
+play id 40 pos 4
+
+attacker: 66 enemy: 68
+
+calculated 0.2898567
+useability 
+
+use ablitiy: 图腾召唤 target nothing
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:38 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/1
+mana 9/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 22 30 3 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:True natt:0
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+stoneclawtotem CS2_051 zp:4 e:124 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 thingfrombelow 0 entity 40 OG_028 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+spellpower changed
+Leathal-check###########
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 12 dones 0
+cut to len 6
+ailoop
+deep 2 len 12 dones 0
+cut to len 4
+ailoop
+deep 3 len 4 dones 0
+cut to len 1
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 5102
+attacker: 47 enemy: 68
+
+attacker: 66 enemy: 68
+
+attacker: 54 enemy: 68
+
+missing dmg to lethal 10
+calculated 0.1206024
+no lethal, do something random######
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 27 dones 0
+cut to len 19
+ailoop
+deep 2 len 62 dones 0
+cut to len 25
+ailoop
+deep 3 len 52 dones 0
+cut to len 16
+ailoop
+deep 4 len 16 dones 0
+cut to len 4
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 96
+attacker: 54 enemy: 68
+
+play id 40 pos 4
+
+attacker: 47 enemy: 68
+
+attacker: 66 enemy: 68
+
+calculated 0.2098711
+attacker: 54 enemy: 68
+
+minion attack: 德莱尼图腾师 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:44 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/2
+mana 9/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 21 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:True natt:0
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:False natt:1 ex
+stoneclawtotem CS2_051 zp:4 e:124 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 thingfrombelow 0 entity 40 OG_028 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 40 pos 4
+
+play: 深渊魔物 (40) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:49 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/3
+mana 9/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 21 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:True natt:0
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:False natt:1 ex
+thingfrombelow OG_028 zp:4 e:40 A:5 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+stoneclawtotem CS2_051 zp:5 e:124 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 47 enemy: 68
+
+minion attack: 吉恩·格雷迈恩 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:54 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/4
+mana 9/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 15 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:1 ex
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:False natt:1 ex
+thingfrombelow OG_028 zp:4 e:40 A:5 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+stoneclawtotem CS2_051 zp:5 e:124 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 66 enemy: 68
+
+minion attack: 艾雅·黑掌 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:58:58 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 19/5
+mana 9/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: False CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 10 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 17 0 16 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:False natt:1 ex
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:1 ex
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:False natt:1 ex
+thingfrombelow OG_028 zp:4 e:40 A:5 H:5 mH:5 rdy:False natt:0 ex tnt ptt
+stoneclawtotem CS2_051 zp:5 e:124 A:0 H:2 mH:2 rdy:False natt:0 ex tnt ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+Enemy cards: 0
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 09:59:39 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 21/0
+mana 10/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 10 30 1 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 16 0 14 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:True natt:0
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+thingfrombelow OG_028 zp:4 e:40 A:5 H:5 mH:5 rdy:True natt:0 silenced
+stoneclawtotem CS2_051 zp:5 e:124 A:0 H:1 mH:2 rdy:False natt:0 tnt
+EnemyMinions:
+keeperofthegrove EX1_166 zp:1 e:23 A:2 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 maelstromportal 2 entity 67 KAR_073 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+mana changed 10 -100 10 10 10 10
+Leathal-check###########
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 42 dones 0
+cut to len 21
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10167
+attacker: 47 enemy: 68
+
+attacker: 66 enemy: 68
+
+missing dmg to lethal 0
+calculated 0.1055935
+attacker: 47 enemy: 68
+
+minion attack: 吉恩·格雷迈恩 target: 玛法里奥·怒风
+#######################################################################
+#######################################################################
+start calculations, current time: 09:59:45 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 21/1
+mana 10/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+shaman 14 30 0 False False 70 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_049
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 2 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+druid 5 30 0 False False 68 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_017
+fatigue: 16 0 14 0
+OwnMinions:
+ayablackpaw CFM_902 zp:1 e:66 A:5 H:1 mH:3 rdy:True natt:0
+genngreymane GIL_692 zp:2 e:47 A:6 H:5 mH:5 rdy:False natt:1 ex
+draeneitotemcarver AT_047 zp:3 e:54 A:4 H:4 mH:4 rdy:True natt:0
+thingfrombelow OG_028 zp:4 e:40 A:5 H:5 mH:5 rdy:True natt:0 silenced
+stoneclawtotem CS2_051 zp:5 e:124 A:0 H:1 mH:2 rdy:False natt:0 tnt
+EnemyMinions:
+keeperofthegrove EX1_166 zp:1 e:23 A:2 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 crackle 2 entity 52 GVG_038 0 0 0
+pos 2 maelstromportal 2 entity 67 KAR_073 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: CFM_717,1;EX1_048,1;GVG_037,1;EX1_246,1;EX1_565,1;GIL_530,1;EX1_162,1;GVG_038,1;CS2_052,1;
+eg: hexfrog,1;CS2_013,2;CS2_012,2;EX1_169,1;CS2_131,2;EX1_015,1;CS2_196,1;CS2_005,2;CS2_142,1;CS2_009,1;GAME_005,1;
+od: AT_052,2;KAR_073,2;EX1_162,1;EX1_565,2;GVG_037,2;CFM_696,1;GVG_038,2;GIL_530,2;CFM_717,2;EX1_246,1;AT_047,1;OG_024,2;EX1_048,1;GVG_096,1;CFM_707,2;GIL_692,1;OG_028,2;CFM_902,1;EX1_586,2;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 66 enemy: 68
+
+minion attack: 艾雅·黑掌 target: 玛法里奥·怒风

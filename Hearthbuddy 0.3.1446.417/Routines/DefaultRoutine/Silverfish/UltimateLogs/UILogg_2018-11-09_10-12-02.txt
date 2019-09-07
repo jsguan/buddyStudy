@@ -1,0 +1,1142 @@
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:10 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 2/0
+mana 1/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 30 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 25 0 26 0
+OwnMinions:
+EnemyMinions:
+Own Handcards: 
+pos 1 lightwarden 1 entity 31 EX1_001 0 0 0
+pos 2 flameimp 1 entity 21 EX1_319 0 0 0
+pos 3 stonehilldefender 3 entity 30 UNG_072 0 0 0
+pos 4 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 5 thecoin 0 entity 68 GAME_005 0 0 0
+pos 6 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 1 -100 1 9 1 9
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 17
+missing dmg to lethal 30
+calculated 0.0483848
+no lethal, do something random######
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 7 dones 0
+cut to len 7
+ailoop
+deep 2 len 12 dones 0
+cut to len 3
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 29
+play id 21 pos 1
+
+calculated 0.114445
+play id 21 pos 1
+
+play: 烈焰小鬼 (21) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:16 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 2/1
+mana 0/1
+emana 1
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 27 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 25 0 26 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 lightwarden 1 entity 31 EX1_001 0 0 0
+pos 2 stonehilldefender 3 entity 30 UNG_072 0 0 0
+pos 3 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 4 thecoin 0 entity 68 GAME_005 0 0 0
+pos 5 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: 
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:40 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/0
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 24 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+EnemyMinions:
+Own Handcards: 
+pos 1 lightwarden 1 entity 31 EX1_001 0 0 0
+pos 2 stonehilldefender 3 entity 30 UNG_072 0 0 0
+pos 3 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 4 thecoin 0 entity 68 GAME_005 0 0 0
+pos 5 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+pos 6 soulinfusion 1 entity 32 BOT_263 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 2 -100 2 1 2 1
+Leathal-check###########
+ailoop
+deep 0 len 3 dones 0
+cut to len 3
+ailoop
+deep 1 len 6 dones 0
+cut to len 3
+ailoop
+deep 2 len 3 dones 0
+cut to len 1
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 45
+play id 32 pos 1
+
+missing dmg to lethal 30
+calculated 0.1025373
+no lethal, do something random######
+ailoop
+deep 0 len 6 dones 0
+cut to len 6
+ailoop
+deep 1 len 26 dones 0
+cut to len 20
+ailoop
+deep 2 len 58 dones 0
+cut to len 29
+ailoop
+deep 3 len 44 dones 0
+cut to len 14
+ailoop
+deep 4 len 9 dones 0
+cut to len 3
+ailoop
+deep 5 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 52
+play id 31 pos 2
+
+play id 68 pos 1
+
+play id 32 pos 1
+
+play id 18 pos 2
+
+attacker: 21 enemy: 66
+
+calculated 0.2288694
+play id 31 pos 2
+
+play: 圣光护卫者 (31) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:44 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/1
+mana 1/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 24 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+lightwarden EX1_001 zp:2 e:31 A:1 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 0 0 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 thecoin 0 entity 68 GAME_005 0 0 0
+pos 4 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+pos 5 soulinfusion 1 entity 32 BOT_263 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 68 pos 1
+
+play: 幸运币 (68) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:48 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/2
+mana 2/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 2 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 24 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+lightwarden EX1_001 zp:2 e:31 A:1 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 0 0 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+pos 4 soulinfusion 1 entity 32 BOT_263 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: GAME_005,68;
+etg: 
+og: GAME_005,1;
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 32 pos 1
+
+play: 灵魂灌注 (32) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:51 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/3
+mana 1/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 3 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 24 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+lightwarden EX1_001 zp:2 e:31 A:1 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 2 2 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 koboldlibrarian 1 entity 18 LOOT_014 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: BOT_263,32;GAME_005,68;
+etg: 
+og: BOT_263,1;GAME_005,1;
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;ICC_075,1;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 18 pos 2
+
+play: 狗头人图书管理员 (18) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:13:58 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/4
+mana 0/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+2 4 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 30 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 23 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+koboldlibrarian LOOT_014 zp:2 e:18 A:2 H:1 mH:1 rdy:False natt:0 ex ptt
+lightwarden EX1_001 zp:3 e:31 A:1 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 2 2 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: BOT_263,32;GAME_005,68;
+etg: 
+og: BOT_263,1;GAME_005,1;
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+ownhero changed 22 24 0 0 0 0 True True False False False False
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 51
+missing dmg to lethal 30
+calculated 0.035125
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 35
+attacker: 21 enemy: 66
+
+calculated 0.0321425
+attacker: 21 enemy: 66
+
+minion attack: 烈焰小鬼 target: 吉安娜·普罗德摩尔
+#######################################################################
+#######################################################################
+start calculations, current time: 10:14:01 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 4/5
+mana 0/2
+emana 2
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+2 4 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 True 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 23 0 25 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:False natt:1 ex
+koboldlibrarian LOOT_014 zp:2 e:18 A:2 H:1 mH:1 rdy:False natt:0 ex ptt
+lightwarden EX1_001 zp:3 e:31 A:1 H:2 mH:2 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 2 2 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: BOT_263,32;GAME_005,68;
+etg: 
+og: BOT_263,1;GAME_005,1;
+eg: CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,2;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+start calculations, current time: 10:14:23 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 6/0
+mana 3/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 22 0 24 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:False natt:0 frz
+koboldlibrarian LOOT_014 zp:2 e:18 A:2 H:1 mH:1 rdy:False natt:0 frz
+lightwarden EX1_001 zp:3 e:31 A:1 H:2 mH:2 rdy:False natt:0 frz
+EnemyMinions:
+Own Handcards: 
+pos 1 stonehilldefender 3 entity 30 UNG_072 2 2 0
+pos 2 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 3 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 4 doublingimp 3 entity 20 BOT_224 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 3 -100 3 2 3 2
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 42
+missing dmg to lethal 27
+calculated 0.0391107
+no lethal, do something random######
+ailoop
+deep 0 len 4 dones 0
+cut to len 4
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 68
+play id 30 pos 2
+
+calculated 0.036694
+play id 30 pos 2
+
+play: 石丘防御者 (30) choice: 0
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+discover card: 2 UNG_928 None ICC_466
+#######################################################################
+#######################################################################
+start calculations, current time: 10:14:32 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 6/1
+mana 0/3
+emana 3
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 22 0 24 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:False natt:0 frz
+stonehilldefender UNG_072 zp:2 e:30 A:3 H:6 mH:6 rdy:False natt:0 ex tnt ptt
+koboldlibrarian LOOT_014 zp:3 e:18 A:2 H:1 mH:1 rdy:False natt:0 frz
+lightwarden EX1_001 zp:4 e:31 A:1 H:2 mH:2 rdy:False natt:0 frz
+EnemyMinions:
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 3 doublingimp 3 entity 20 BOT_224 0 0 0
+pos 4 saronitechaingang 4 entity 80 ICC_466 0 0 0
+Enemy cards: 4
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,2;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+ownminions changed
+Leathal-check###########
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 65.5
+missing dmg to lethal 27
+calculated 0.0190618
+no lethal, do something random######
+ailoop
+deep 0 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 62
+calculated 0.0176061
+#######################################################################
+#######################################################################
+start calculations, current time: 10:15:08 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 8/0
+mana 4/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 21 0 23 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+stonehilldefender UNG_072 zp:2 e:30 A:3 H:6 mH:6 rdy:True natt:0 tnt
+EnemyMinions:
+acidicswampooze EX1_066 zp:1 e:46 A:3 H:2 mH:2 rdy:False ex
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 3 doublingimp 3 entity 20 BOT_224 0 0 0
+pos 4 saronitechaingang 4 entity 80 ICC_466 0 0 0
+pos 5 fungalenchanter 3 entity 11 LOOT_388 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;EX1_277,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 4 -100 4 3 4 3
+Leathal-check###########
+ailoop
+deep 0 len 2 dones 0
+cut to len 2
+ailoop
+deep 1 len 2 dones 0
+cut to len 1
+ailoop
+deep 2 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 40
+attacker: 21 enemy: 66
+
+missing dmg to lethal 24
+calculated 0.0581862
+no lethal, do something random######
+ailoop
+deep 0 len 9 dones 0
+cut to len 9
+ailoop
+deep 1 len 46 dones 0
+cut to len 39
+ailoop
+deep 2 len 69 dones 0
+cut to len 28
+ailoop
+deep 3 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 63
+attacker: 30 enemy: 46
+
+play id 80 pos 1
+
+attacker: 21 enemy: 66
+
+calculated 0.1034666
+attacker: 30 enemy: 46
+
+minion attack: 石丘防御者 target: 酸性沼泽软泥怪
+#######################################################################
+#######################################################################
+start calculations, current time: 10:15:12 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 8/1
+mana 4/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 21 0 23 0
+OwnMinions:
+flameimp EX1_319 zp:1 e:21 A:3 H:2 mH:2 rdy:True natt:0
+stonehilldefender UNG_072 zp:2 e:30 A:3 H:3 mH:6 rdy:False natt:1 ex tnt
+EnemyMinions:
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 3 doublingimp 3 entity 20 BOT_224 0 0 0
+pos 4 saronitechaingang 4 entity 80 ICC_466 0 0 0
+pos 5 fungalenchanter 3 entity 11 LOOT_388 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: EX1_066,46;
+otg: 
+etg: EX1_066,46;
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;EX1_066,1;EX1_277,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+play id 80 pos 1
+
+play: 萨隆苦囚 (80) choice: 0
+#######################################################################
+#######################################################################
+start calculations, current time: 10:15:17 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 8/2
+mana 0/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 27 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 21 0 23 0
+OwnMinions:
+saronitechaingang ICC_466 zp:1 e:80 A:2 H:3 mH:3 rdy:False natt:0 ex tnt ptt
+saronitechaingang ICC_466 zp:2 e:84 A:2 H:3 mH:3 rdy:False natt:0 ex tnt ptt
+flameimp EX1_319 zp:3 e:21 A:3 H:2 mH:2 rdy:True natt:0
+stonehilldefender UNG_072 zp:4 e:30 A:3 H:3 mH:6 rdy:False natt:1 ex tnt
+EnemyMinions:
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 3 doublingimp 3 entity 20 BOT_224 0 0 0
+pos 4 fungalenchanter 3 entity 11 LOOT_388 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: EX1_066,46;
+otg: 
+etg: EX1_066,46;
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;EX1_066,1;EX1_277,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+ownminions changed
+Leathal-check###########
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 89
+missing dmg to lethal 27
+calculated 0.0345035
+no lethal, do something random######
+ailoop
+deep 0 len 1 dones 0
+cut to len 1
+ailoop
+deep 1 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 64
+attacker: 21 enemy: 66
+
+calculated 0.0314703
+attacker: 21 enemy: 66
+
+minion attack: 烈焰小鬼 target: 吉安娜·普罗德摩尔
+#######################################################################
+#######################################################################
+start calculations, current time: 10:15:20 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 8/3
+mana 0/4
+emana 4
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 1
+ownhero:
+warlock 22 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 24 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 21 0 23 0
+OwnMinions:
+saronitechaingang ICC_466 zp:1 e:80 A:2 H:3 mH:3 rdy:False natt:0 ex tnt ptt
+saronitechaingang ICC_466 zp:2 e:84 A:2 H:3 mH:3 rdy:False natt:0 ex tnt ptt
+flameimp EX1_319 zp:3 e:21 A:3 H:2 mH:2 rdy:False natt:1 ex
+stonehilldefender UNG_072 zp:4 e:30 A:3 H:3 mH:6 rdy:False natt:1 ex tnt
+EnemyMinions:
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 despicabledreadlord 5 entity 5 ICC_075 0 0 0
+pos 3 doublingimp 3 entity 20 BOT_224 0 0 0
+pos 4 fungalenchanter 3 entity 11 LOOT_388 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: EX1_066,46;
+otg: 
+etg: EX1_066,46;
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;EX1_066,1;EX1_277,1;CS2_024,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;BOT_263,1;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,2;UNG_928,1;LOOT_388,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+read _combo.txt...
+#######################################################################
+#######################################################################
+start calculations, current time: 10:17:40 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 14/0
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 11 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 18 0 18 0
+OwnMinions:
+doublingimp BOT_224 zp:1 e:20 A:2 H:2 mH:2 rdy:True natt:0
+doublingimp BOT_224 zp:2 e:95 A:2 H:2 mH:2 rdy:True natt:0
+fungalenchanter LOOT_388 zp:3 e:11 A:3 H:3 mH:3 rdy:True natt:0
+despicabledreadlord ICC_075 zp:4 e:5 A:4 H:5 mH:5 rdy:True natt:0
+saronitechaingang ICC_466 zp:5 e:84 A:2 H:1 mH:3 rdy:True natt:0 tnt
+flameimp EX1_319 zp:6 e:21 A:3 H:2 mH:2 rdy:True natt:0
+stonehilldefender UNG_072 zp:7 e:30 A:3 H:4 mH:6 rdy:True natt:0 tnt
+EnemyMinions:
+frostwolfwarlord CS2_226 zp:1 e:59 A:5 H:5 mH:5 rdy:False ex
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 happyghoul 3 entity 15 ICC_700 0 0 0
+pos 3 fungalenchanter 3 entity 10 LOOT_388 0 0 0
+pos 4 soulinfusion 1 entity 8 BOT_263 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_124,1;EX1_508,1;EX1_066,1;EX1_277,1;CS2_024,1;EX1_506,1;CS2_027,1;CS2_023,1;CS2_173,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,1;UNG_928,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+mana changed 7 -100 7 4 7 4
+Leathal-check###########
+ailoop
+deep 0 len 7 dones 0
+cut to len 7
+ailoop
+deep 1 len 43 dones 0
+cut to len 22
+ailoop
+deep 2 len 117 dones 0
+cut to len 41
+ailoop
+deep 3 len 185 dones 0
+cut to len 50
+ailoop
+deep 4 len 0 dones 0
+cut to len 0
+-------------------------------------
+value of best board 10173
+attacker: 21 enemy: 66
+
+attacker: 11 enemy: 66
+
+attacker: 30 enemy: 66
+
+attacker: 5 enemy: 66
+
+missing dmg to lethal -2
+calculated 0.2264061
+attacker: 21 enemy: 66
+
+minion attack: 烈焰小鬼 target: 吉安娜·普罗德摩尔
+#######################################################################
+#######################################################################
+start calculations, current time: 10:17:43 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 14/1
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 8 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 18 0 18 0
+OwnMinions:
+doublingimp BOT_224 zp:1 e:20 A:2 H:2 mH:2 rdy:True natt:0
+doublingimp BOT_224 zp:2 e:95 A:2 H:2 mH:2 rdy:True natt:0
+fungalenchanter LOOT_388 zp:3 e:11 A:3 H:3 mH:3 rdy:True natt:0
+despicabledreadlord ICC_075 zp:4 e:5 A:4 H:5 mH:5 rdy:True natt:0
+saronitechaingang ICC_466 zp:5 e:84 A:2 H:1 mH:3 rdy:True natt:0 tnt
+flameimp EX1_319 zp:6 e:21 A:3 H:2 mH:2 rdy:False natt:1 ex
+stonehilldefender UNG_072 zp:7 e:30 A:3 H:4 mH:6 rdy:True natt:0 tnt
+EnemyMinions:
+frostwolfwarlord CS2_226 zp:1 e:59 A:5 H:5 mH:5 rdy:False ex
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 happyghoul 3 entity 15 ICC_700 0 0 0
+pos 3 fungalenchanter 3 entity 10 LOOT_388 0 0 0
+pos 4 soulinfusion 1 entity 8 BOT_263 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_124,1;EX1_508,1;EX1_066,1;EX1_277,1;CS2_024,1;EX1_506,1;CS2_027,1;CS2_023,1;CS2_173,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,1;UNG_928,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 11 enemy: 66
+
+minion attack: 菌菇附魔师 target: 吉安娜·普罗德摩尔
+#######################################################################
+#######################################################################
+start calculations, current time: 10:17:46 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 14/2
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 5 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 18 0 18 0
+OwnMinions:
+doublingimp BOT_224 zp:1 e:20 A:2 H:2 mH:2 rdy:True natt:0
+doublingimp BOT_224 zp:2 e:95 A:2 H:2 mH:2 rdy:True natt:0
+fungalenchanter LOOT_388 zp:3 e:11 A:3 H:3 mH:3 rdy:False natt:1 ex
+despicabledreadlord ICC_075 zp:4 e:5 A:4 H:5 mH:5 rdy:True natt:0
+saronitechaingang ICC_466 zp:5 e:84 A:2 H:1 mH:3 rdy:True natt:0 tnt
+flameimp EX1_319 zp:6 e:21 A:3 H:2 mH:2 rdy:False natt:1 ex
+stonehilldefender UNG_072 zp:7 e:30 A:3 H:4 mH:6 rdy:True natt:0 tnt
+EnemyMinions:
+frostwolfwarlord CS2_226 zp:1 e:59 A:5 H:5 mH:5 rdy:False ex
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 happyghoul 3 entity 15 ICC_700 0 0 0
+pos 3 fungalenchanter 3 entity 10 LOOT_388 0 0 0
+pos 4 soulinfusion 1 entity 8 BOT_263 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_124,1;EX1_508,1;EX1_066,1;EX1_277,1;CS2_024,1;EX1_506,1;CS2_027,1;CS2_023,1;CS2_173,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,1;UNG_928,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 30 enemy: 66
+
+minion attack: 石丘防御者 target: 吉安娜·普罗德摩尔
+#######################################################################
+#######################################################################
+start calculations, current time: 10:17:49 V117.178 Control 3000 face 15 berserk:1 ets 40 secret iC 1 aA 0
+#######################################################################
+turn 14/3
+mana 7/7
+emana 7
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 1
+ownhero:
+warlock 24 30 0 False False 64 False 0 False 0 0 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_056
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+mage 2 30 0 False False 66 False
+weapon: 0 0 unknown None 0 0
+ability: True CS2_034
+fatigue: 18 0 18 0
+OwnMinions:
+doublingimp BOT_224 zp:1 e:20 A:2 H:2 mH:2 rdy:True natt:0
+doublingimp BOT_224 zp:2 e:95 A:2 H:2 mH:2 rdy:True natt:0
+fungalenchanter LOOT_388 zp:3 e:11 A:3 H:3 mH:3 rdy:False natt:1 ex
+despicabledreadlord ICC_075 zp:4 e:5 A:4 H:5 mH:5 rdy:True natt:0
+saronitechaingang ICC_466 zp:5 e:84 A:2 H:1 mH:3 rdy:True natt:0 tnt
+flameimp EX1_319 zp:6 e:21 A:3 H:2 mH:2 rdy:False natt:1 ex
+stonehilldefender UNG_072 zp:7 e:30 A:3 H:4 mH:6 rdy:False natt:1 ex tnt
+EnemyMinions:
+frostwolfwarlord CS2_226 zp:1 e:59 A:5 H:5 mH:5 rdy:False ex
+Own Handcards: 
+pos 1 tarcreeper 3 entity 9 UNG_928 0 0 0
+pos 2 happyghoul 3 entity 15 ICC_700 0 0 0
+pos 3 fungalenchanter 3 entity 10 LOOT_388 0 0 0
+pos 4 soulinfusion 1 entity 8 BOT_263 0 0 0
+Enemy cards: 1
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: LOOT_014,1;EX1_001,1;BOT_263,1;GAME_005,1;
+eg: CS2_026,1;CS2_124,1;EX1_508,1;EX1_066,1;EX1_277,1;CS2_024,1;EX1_506,1;CS2_027,1;CS2_023,1;CS2_173,1;
+od: EX1_001,1;EX1_011,2;EX1_308,2;EX1_319,1;LOOT_014,1;CS2_065,1;ICC_851,1;BOT_224,1;ICC_700,1;UNG_928,1;CS2_062,1;ICC_466,2;LOOT_167,2;CS2_213,1;
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+attacker: 5 enemy: 66
+
+minion attack: 卑鄙的恐惧魔王 target: 吉安娜·普罗德摩尔
